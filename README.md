@@ -1,10 +1,12 @@
 # Create your first NodeJS app!
 
-This repo was made for a tutorial for begginers to learn about NodeJS and npm. Full instructions can be found at in my [Notion Article](https://francamaradev.notion.site/Haciendo-una-Web-Multi-Lenguaje-con-glob-790458598ad7436e89ca87b5848ca592) but its in spanish.
+This repo was made for developers who are new and want to learn about NodeJS and npm. Full instructions can be found at in my [Notion Article](https://francamaradev.notion.site/Haciendo-una-Web-Multi-Lenguaje-con-glob-790458598ad7436e89ca87b5848ca592) but its in spanish.
 
-**[INSTRUCCIONES EN ESPANOL](https://francamaradev.notion.site/Haciendo-una-Web-Multi-Lenguaje-con-glob-790458598ad7436e89ca87b5848ca592)**
+**[INSTRUCCIONES EN ESPAÑOL](https://francamaradev.notion.site/Haciendo-una-Web-Multi-Lenguaje-con-glob-790458598ad7436e89ca87b5848ca592)**
 
-To run this project, first run the following command on the terminal.
+## Running the project
+
+First run the following command on the terminal.
 
 ```
 npm install
